@@ -1,0 +1,96 @@
+{
+    "id": "16-3",
+    "moves": 5,
+    "regions": [
+        {
+            "id": 0,
+            "color": "purple",
+            "neighbors": [1, 2]
+        },
+        {
+            "id": 1,
+            "color": "orange",
+            "neighbors": [0, 3, 4, 5]
+        },
+        {
+            "id": 2,
+            "color": "orange",
+            "neighbors": [0, 3, 8]
+        },
+        {
+            "id": 3,
+            "color": "white",
+            "neighbors": [1, 2, 5, 8]
+        },
+        {
+            "id": 4,
+            "color": "red",
+            "neighbors": [1, 5, 6]
+        },
+        {
+            "id": 5,
+            "color": "purple",
+            "neighbors": [1, 3, 4, 6, 7]
+        },
+        {
+            "id": 6,
+            "color": "orange",
+            "neighbors": [4, 5, 12]
+        },
+        {
+            "id": 7,
+            "color": "orange",
+            "neighbors": [5, 8, 10, 12]
+        },
+        {
+            "id": 8,
+            "color": "purple",
+            "neighbors": [2, 3, 7, 9]
+        },
+        {
+            "id": 9,
+            "color": "red",
+            "neighbors": [8, 10, 11, 17]
+        },
+        {
+            "id": 10,
+            "color": "purple",
+            "neighbors": [7, 9]
+        },
+        {
+            "id": 11,
+            "color": "purple",
+            "neighbors": [9, 12, 17, 14]
+        },
+        {
+            "id": 12,
+            "color": "white",
+            "neighbors": [6, 7, 11, 13, 14]
+        },
+        {
+            "id": 13,
+            "color": "purple",
+            "neighbors": [12]
+        },
+        {
+            "id": 14,
+            "color": "orange",
+            "neighbors": [11, 12, 15, 16, 17]
+        },
+        {
+            "id": 15,
+            "color": "red",
+            "neighbors": [14, 16]
+        },
+        {
+            "id": 16,
+            "color": "purple",
+            "neighbors": [14, 15, 17]
+        },
+        {
+            "id": 17,
+            "color": "white",
+            "neighbors": [9, 11, 14, 16]
+        }
+    ]
+}

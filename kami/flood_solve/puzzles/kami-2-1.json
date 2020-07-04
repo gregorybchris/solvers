@@ -1,0 +1,36 @@
+{
+    "id": "2-1",
+    "moves": 1,
+    "regions": [
+        {
+            "id": 0,
+            "color": "red",
+            "neighbors": [
+                1
+            ]
+        },
+        {
+            "id": 1,
+            "color": "green",
+            "neighbors": [
+                0,
+                2,
+                3
+            ]
+        },
+        {
+            "id": 2,
+            "color": "red",
+            "neighbors": [
+                1
+            ]
+        },
+        {
+            "id": 3,
+            "color": "red",
+            "neighbors": [
+                1
+            ]
+        }
+    ]
+}

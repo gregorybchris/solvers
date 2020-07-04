@@ -1,0 +1,150 @@
+{
+    "id": "7-3",
+    "moves": 3,
+    "regions": [
+        {
+            "id": 0,
+            "color": "green",
+            "neighbors": [
+                1
+            ]
+        },
+        {
+            "id": 1,
+            "color": "black",
+            "neighbors": [
+                0,
+                2,
+                3,
+                5,
+                6,
+                7,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "id": 2,
+            "color": "green",
+            "neighbors": [
+                1,
+                4,
+                8
+            ]
+        },
+        {
+            "id": 3,
+            "color": "red",
+            "neighbors": [
+                1,
+                4
+            ]
+        },
+        {
+            "id": 4,
+            "color": "black",
+            "neighbors": [
+                2,
+                3,
+                5
+            ]
+        },
+        {
+            "id": 5,
+            "color": "green",
+            "neighbors": [
+                1,
+                4,
+                6,
+                8
+            ]
+        },
+        {
+            "id": 6,
+            "color": "red",
+            "neighbors": [
+                1,
+                5,
+                8
+            ]
+        },
+        {
+            "id": 7,
+            "color": "green",
+            "neighbors": [
+                1,
+                8
+            ]
+        },
+        {
+            "id": 8,
+            "color": "black",
+            "neighbors": [
+                2,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "id": 9,
+            "color": "green",
+            "neighbors": [
+                1
+            ]
+        },
+        {
+            "id": 10,
+            "color": "green",
+            "neighbors": [
+                1,
+                11,
+                15
+            ]
+        },
+        {
+            "id": 11,
+            "color": "red",
+            "neighbors": [
+                1,
+                10,
+                15
+            ]
+        },
+        {
+            "id": 12,
+            "color": "green",
+            "neighbors": [
+                1,
+                15
+            ]
+        },
+        {
+            "id": 13,
+            "color": "green",
+            "neighbors": [
+                15
+            ]
+        },
+        {
+            "id": 14,
+            "color": "green",
+            "neighbors": [
+                15
+            ]
+        },
+        {
+            "id": 15,
+            "color": "black",
+            "neighbors": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "1-2",
+    "moves": 2,
+    "regions": [
+        {
+            "id": 0,
+            "color": "red",
+            "neighbors": [
+                1
+            ]
+        },
+        {
+            "id": 1,
+            "color": "green",
+            "neighbors": [
+                0,
+                2
+            ]
+        },
+        {
+            "id": 2,
+            "color": "yellow",
+            "neighbors": [
+                1
+            ]
+        }
+    ]
+}

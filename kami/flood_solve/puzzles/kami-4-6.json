@@ -1,0 +1,164 @@
+{
+    "id": "4-6",
+    "moves": 4,
+    "regions": [
+        {
+            "id": 0,
+            "color": "blue",
+            "neighbors": [
+                1,
+                2,
+                5
+            ]
+        },
+        {
+            "id": 1,
+            "color": "white",
+            "neighbors": [
+                0
+            ]
+        },
+        {
+            "id": 2,
+            "color": "red",
+            "neighbors": [
+                0,
+                3,
+                4,
+                7
+            ]
+        },
+        {
+            "id": 3,
+            "color": "white",
+            "neighbors": [
+                2
+            ]
+        },
+        {
+            "id": 4,
+            "color": "blue",
+            "neighbors": [
+                2,
+                5
+            ]
+        },
+        {
+            "id": 5,
+            "color": "red",
+            "neighbors": [
+                0,
+                4,
+                6,
+                7
+            ]
+        },
+        {
+            "id": 6,
+            "color": "white",
+            "neighbors": [
+                5
+            ]
+        },
+        {
+            "id": 7,
+            "color": "white",
+            "neighbors": [
+                2,
+                5,
+                8,
+                9,
+                10,
+                11,
+                15
+            ]
+        },
+        {
+            "id": 8,
+            "color": "red",
+            "neighbors": [
+                7
+            ]
+        },
+        {
+            "id": 9,
+            "color": "blue",
+            "neighbors": [
+                7
+            ]
+        },
+        {
+            "id": 10,
+            "color": "red",
+            "neighbors": [
+                7
+            ]
+        },
+        {
+            "id": 11,
+            "color": "blue",
+            "neighbors": [
+                7,
+                12,
+                13,
+                14,
+                17
+            ]
+        },
+        {
+            "id": 12,
+            "color": "white",
+            "neighbors": [
+                11
+            ]
+        },
+        {
+            "id": 13,
+            "color": "red",
+            "neighbors": [
+                11
+            ]
+        },
+        {
+            "id": 14,
+            "color": "white",
+            "neighbors": [
+                11,
+                15,
+                16
+            ]
+        },
+        {
+            "id": 15,
+            "color": "blue",
+            "neighbors": [
+                7,
+                14
+            ]
+        },
+        {
+            "id": 16,
+            "color": "blue",
+            "neighbors": [
+                14,
+                17
+            ]
+        },
+        {
+            "id": 17,
+            "color": "red",
+            "neighbors": [
+                11,
+                16,
+                18
+            ]
+        },
+        {
+            "id": 18,
+            "color": "white",
+            "neighbors": [
+                17
+            ]
+        }
+    ]
+}

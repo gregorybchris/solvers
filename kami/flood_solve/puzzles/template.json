@@ -1,0 +1,291 @@
+{
+    "id": "",
+    "moves": 0,
+    "regions": [
+        {
+            "id": 0,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 1,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 2,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 3,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 4,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 5,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 6,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 7,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 8,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 9,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 10,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 11,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 12,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 13,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 14,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 15,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 16,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 17,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 18,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 19,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 20,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 21,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 22,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 23,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 24,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 25,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 26,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 27,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 28,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 29,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 30,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 31,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 32,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 33,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 34,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 35,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 36,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 37,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 38,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 39,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 40,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 41,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 42,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 43,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 44,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 45,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 46,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 47,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 48,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 49,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 50,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 51,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 52,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 53,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 54,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 55,
+            "color": "region_color",
+            "neighbors": []
+        },
+        {
+            "id": 56,
+            "color": "region_color",
+            "neighbors": []
+        }
+    ]
+}
