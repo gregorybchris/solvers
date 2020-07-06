@@ -1,0 +1,11 @@
+{
+    "name": "1-5",
+    "moves": 2,
+    "regions": [
+        { "id": "0", "color": "green", "neighbors": ["1"] },
+        { "id": "1", "color": "yellow", "neighbors": ["0", "2"] },
+        { "id": "2", "color": "red", "neighbors": ["1", "3"] },
+        { "id": "3", "color": "yellow", "neighbors": ["2", "4"] },
+        { "id": "4", "color": "green", "neighbors": ["3"] }
+    ]
+}

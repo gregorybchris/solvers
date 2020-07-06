@@ -1,0 +1,25 @@
+{
+    "name": "6-5",
+    "moves": 5,
+    "regions": [
+        { "id": "0", "color": "green", "neighbors": ["1", "2", "3", "4", "6", "9", "10", "11", "12", "13", "14"] },
+        { "id": "1", "color": "blue", "neighbors": ["0"] },
+        { "id": "2", "color": "orange", "neighbors": ["0", "5"] },
+        { "id": "3", "color": "orange", "neighbors": ["0", "5"] },
+        { "id": "4", "color": "orange", "neighbors": ["0", "5"] },
+        { "id": "5", "color": "green", "neighbors": ["2", "3", "4"] },
+        { "id": "6", "color": "orange", "neighbors": ["0", "7"] },
+        { "id": "7", "color": "green", "neighbors": ["6", "8"] },
+        { "id": "8", "color": "blue", "neighbors": ["7"] },
+        { "id": "9", "color": "blue", "neighbors": ["0", "15"] },
+        { "id": "10", "color": "blue", "neighbors": ["0", "15", "16"] },
+        { "id": "11", "color": "blue", "neighbors": ["0", "16"] },
+        { "id": "12", "color": "blue", "neighbors": ["0", "16", "17"] },
+        { "id": "13", "color": "blue", "neighbors": ["0", "17"] },
+        { "id": "14", "color": "blue", "neighbors": ["0", "15", "17"] },
+        { "id": "15", "color": "yellow", "neighbors": ["9", "10", "14", "18"] },
+        { "id": "16", "color": "yellow", "neighbors": ["10", "11", "12", "18"] },
+        { "id": "17", "color": "yellow", "neighbors": ["12", "13", "14", "18"] },
+        { "id": "18", "color": "orange", "neighbors": ["15", "16", "17"] }
+    ]
+}
