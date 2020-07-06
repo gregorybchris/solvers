@@ -86,7 +86,7 @@ getNodeCentralityRec graph seen depth tag = let
       otherLevelsSum = sum $ map (getNodeCentralityRec graph newSeen $ depth + 1) adjacentTags
 
 
-contract :: Graph -> (Tag, Color) -> Graph
+contract :: Graph -> Contraction -> Graph
 contract g (targetTag, targetColor) = let
   -- Find all nodes adjacent to the target that have the same color and will be contracted
   targetNode = getNode g targetTag
